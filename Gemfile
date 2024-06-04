@@ -5,6 +5,7 @@ ruby "3.0.6"
 
 # Bundle edge Rails instead: gem "rails", github: "rails/rails", branch: "main"
 gem "rails", "~> 7.1.3", ">= 7.1.3.3"
+gem 'bootstrap-sass', '3.4.1'
 gem 'puma',       '5.3.1'
 gem 'sass-rails', '6.0.0'
 gem 'webpacker',  '5.4.0'
