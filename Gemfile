@@ -15,7 +15,7 @@ gem 'bootsnap', require: false
 gem 'rexml'
 
 group :development, :test do
-  gem 'sqlite3', '1.7.3'
+  gem 'mysql2', '0.5.6'
   gem 'byebug',  '11.1.3', platforms: [:mri, :mingw, :x64_mingw]
 end
 
