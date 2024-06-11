@@ -5,9 +5,12 @@ ruby "3.0.6"
 
 # Bundle edge Rails instead: gem "rails", github: "rails/rails", branch: "main"
 gem "rails", "~> 7.1.3", ">= 7.1.3.3"
+gem 'importmap-rails'
+gem 'turbo-rails'
+gem 'stimulus-rails'
 gem 'bcrypt'
 gem 'bootstrap-sass', '3.4.1'
-gem 'puma',       '5.3.1'
+gem 'puma'
 gem 'sass-rails', '6.0.0'
 gem 'webpacker',  '5.4.0'
 gem 'turbolinks', '5.2.1'
