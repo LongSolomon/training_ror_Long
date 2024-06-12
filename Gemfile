@@ -9,6 +9,9 @@ gem 'importmap-rails'
 gem 'turbo-rails'
 gem 'stimulus-rails'
 gem 'bcrypt'
+gem "faker"
+gem 'will_paginate'
+gem "will_paginate-bootstrap4"
 gem 'bootstrap-sass', '3.4.1'
 gem 'puma'
 gem 'sass-rails', '6.0.0'
